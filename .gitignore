@@ -1,1 +1,2 @@
 DiseaseDetectionApp/models/*
+!DiseaseDetectionApp/models/read.txt
